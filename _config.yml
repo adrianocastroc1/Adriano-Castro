@@ -35,14 +35,11 @@ disqus:
 
 # if you don't have any of social below, comment the line
 # facebook: myfacebook
-twitter: adrianoKastroo
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
-linkedin: adriano-castro-carvalho-0ab563127
 # youtube: myyoutube
 # spotify: myspotify
-github: adrianocastroc1
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
@@ -51,7 +48,12 @@ github: adrianocastroc1
 # medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
+# twitter: adrianoKastroo
+
+linkedin: adriano-castro-carvalho-0ab563127
+github: adrianocastroc1
 email: adrianocastroc1@gmail.com
+
 
 authors:
     adrianocastro:

@@ -35,20 +35,20 @@ disqus:
 
 # if you don't have any of social below, comment the line
 # facebook: myfacebook
-# twitter: @adrianoKastroo
+twitter: adrianoKastroo
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
-linkedin: https://www.linkedin.com/in/adriano-castro-carvalho-0ab563127
+linkedin: adriano-castro-carvalho-0ab563127
 # youtube: myyoutube
 # spotify: myspotify
-github: https://github.com/adrianocastroc1
+github: adrianocastroc1
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
-medium: medium
+# medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
 email: adrianocastroc1@gmail.com
@@ -59,7 +59,7 @@ authors:
         bio: O uso de analogias facilita a usabilidade
         external-image: true
         picture: assets/images/profile.jpg
-        #twitter: johndoe
+        #twitter: 
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal

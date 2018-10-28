@@ -16,9 +16,8 @@ a fazer o mapeamento de processos que é executado pela equipe de Suporte</p>
 	<li>GitHub</li>
 	<li>Kanban</li>
 	<li>Segurança da Informação</li>
-	<li>Suporte (in loco / remoto)</li>
-	<li>Infraestrutura física e lóxgica</li>
 	<li>Redes de computadores (LAN, WLAN, SAN)</li>
+	<li>Infraestrutura física e lóxgica</li>
 	<li>Sistemas Operacionais (Windows, Linux, Mac</li>
 	<li>Suporte (in loco / remoto)</li>
 	<li>Sistemas de chamados (GLPI, OTRS)</li>

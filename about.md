@@ -4,43 +4,28 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>Adriano Castro é Graduando de Sistema de Informação, atualmente focado em gestão de processos e Itil, 
+está locado no TJMA onde desempenha a função de Técnico de Suporte, além de outras atividades está ajudando 
+a fazer o mapeamento de processos que é executado pela equipe de Suporte</p>
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>Aspirante da aréa de Segurança de Informação, onde ja palestrou sobre o assunto e defende que uma boa Segurança da Informação se faz com a participação de todos - da alto gerência até o operacional, sendo assim: Só o treinamento e conhecimento é capaz de gerar mudanças significativas!</p>
 
 <h2>Skills</h2>
 
 <ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
-	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Testes)</li>
-	<li>NodeJS</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
-	<li>Git</li>
-	<li>PHP</li>
-	<li>Python</li>
-	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
+	<li>GitHub</li>
+	<li>Kanban</li>
+	<li>Segurança da Informação</li>
+	<li>Suporte (in loco / remoto)</li>
+	<li>Infraestrutura física e lóxgica</li>
+	<li>Redes de computadores (LAN, WLAN, SAN)</li>
+	<li>Sistemas Operacionais (Windows, Linux, Mac</li>
+	<li>Suporte (in loco / remoto)</li>
+	<li>Sistemas de chamados (GLPI, OTRS)</li>
 </ul>
 
 <h2>Projects</h2>
 
 <ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
+	<li><a href="https://drive.google.com/file/d/16tZ6lAWDDECW2JiklV3t8ju4-sHkEbqu/view?usp=drive_open/">Uma visão sobre a formação tecnológica e didática do Professor Universitário</a></li>
 </ul>

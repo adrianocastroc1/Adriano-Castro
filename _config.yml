@@ -3,7 +3,7 @@ name: Adriano Castro
 bio: O uso de analogias facilita a usabilidade
 
 # twitter summary info
-description: Inovação | Vendas | Business | Tecnologia
+description: Inovação | Business | Tecnologia
 
 # if it's an external image, update below for true
 # better with square images
@@ -12,9 +12,9 @@ picture: assets/images/profile.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
-resume: true
-resume-external: true
-resume-url: https://google.com/?q=my+resume
+# resume: true
+# resume-external: true
+# resume-url: https://google.com/?q=my+resume
 
 url: https://adrianocastroc1.github.io/Adriano-Castro/
 # your url: http://USERNAME.github.io
